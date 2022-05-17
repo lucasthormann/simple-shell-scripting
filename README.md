@@ -1,2 +1,2 @@
 # simple-shell-scripting
-This file is an example of a rudimentary shell script. This file is intended to be interpreted within a Linux Bourne Shell. The program elicits input from the user and manipulates said input via various means.
+This script is the solution to the third homework assignment assigned in the Unix Systems Programming course from the Computer Science Department of Texas State University during the Spring 2022 semester. The included Bourne shell script is an example of a rudimentary shell script. This file is intended to be interpreted within a Linux Bourne Shell. The program elicits input from the user and manipulates said input via various means.
