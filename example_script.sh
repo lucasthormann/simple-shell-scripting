@@ -1,12 +1,3 @@
-: '
-NAME: Lucas Thormann	CS 4350-Unix Systems Programming
-
-Serial Number: A04968522
-
-Assignment Number: 3
-
-Due Date: 2/28/2022
-'
 #!/bin/bash
 echo "
 Unix Systems Programming
